@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization>
+  <tag>vn</tag>
+  <displayName>Vietnamese</displayName>
+  <poFile>vn.po</poFile>
+  <font fontType="0">
+    <file>sarasa-regular.ttc</file>
+    <face>1</face>
+  </font>
+  <font fontType="1">
+    <file>sarasa-regular.ttc</file>
+    <face>1</face>
+  </font>
+</localization>
