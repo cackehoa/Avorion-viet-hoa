@@ -22,6 +22,10 @@ Mình việt hóa phiên bản v2.3.1 nên có thể sẽ không chạy đúng v
 
 Copy thư mục [media](data/) dán vào thư mục trò chơi Avorion
 
+# Xem thêm hướng dẫn sử dụng github
+
+Nếu chưa biết cách sử dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
+
 # Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.net/cackehoa)
 
