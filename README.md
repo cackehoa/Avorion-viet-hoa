@@ -20,7 +20,7 @@ Mình việt hóa phiên bản v2.3.1 nên có thể sẽ không chạy đúng v
 
 ## Cài đặt việt hóa
 
-Copy thư mục [media](data/) dán vào thư mục trò chơi Avorion
+Copy thư mục [data](data/) dán vào thư mục trò chơi Avorion
 
 # Xem thêm hướng dẫn sử dụng github
 
